@@ -1,136 +1,185 @@
-
 <div align="center">
   
-<!-- ANIMATED HEADER WITH CUTE ELEMENTS -->
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Sparkles.webp" alt="Sparkles" width="30" /> 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Collision.webp" alt="Collision" width="30" />
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Sparkles.webp" alt="Sparkles" width="30" />
+<!-- SIMPLE HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D0D0D,50:FF1493,100:0D0D0D&height=150&section=header&text=halizadz&fontSize=70&fontColor=FF69B4&animation=twinkling" width="100%"/>
 
-<br/>
-
-<!-- CUTE TYPING SVG WITH PINK ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&random=false&width=600&lines=%F0%9F%92%96+halizadz+is+online+%F0%9F%92%96;%F0%9F%A7%A8+full+stack+vibes+%F0%9F%A7%A8;%F0%9F%92%BB+code+%2B+cute+%3D+life+%F0%9F%92%BB)](https://git.io/typing-svg)
-
-<br/>
-
-<!-- ANIMATED SNAKE GAME (SUPER POPULAR AMONG DEVS) -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-</picture>
-
-<!-- CUTE WAVING BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,4,6,8&height=150&section=header&text=%F0%9F%8E%80%20welcome%20to%20my%20profile%20%F0%9F%8E%80&fontSize=30&fontColor=FF1493&animation=twinkling" width="100%"/>
+<!-- TYPING SVG -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=20&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=software+engineer;web+developer;building+things+that+matter;pink+dark+aesthetic)](https://git.io/typing-svg)
 
 </div>
 
-<!-- CUTE DIVIDER WITH ANIMATED EMOJIS -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
+<!-- PROFILE OVERVIEW -->
 <div align="center">
   
-### 💗 `whoami` 💗
-
-<!-- NEON PINK TERMINAL CARD -->
-<img src="https://readme-typing-svg.demolab.com?font=Monaco&weight=600&size=16&duration=3000&pause=1000&color=FF69B4&multiline=true&repeat=false&width=600&height=120&lines=%E2%94%8C%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%90;%E2%94%82%20%F0%9F%92%96%20%40halizadz%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%E2%94%82;%E2%94%82%20%F0%9F%92%BB%20full%20stack%20developer%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%E2%94%82;%E2%94%82%20%E2%9C%A8%20making%20the%20web%20cuter%20%F0%9F%92%96%20%20%20%20%20%20%E2%94%82;%E2%94%94%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%98" alt="Terminal" />
-
-</div>
-
-<!-- ANIMATED TECH STACK WITH CUTE ICONS -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<div align="center">
-  
-### 🛠️ `my.cute.tools` 🛠️
+## 🎀 `profile.overview`
 
 <br/>
 
-<!-- ANIMATED TECH STACK BADGES (POPULAR TREND) -->
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=FF69B4&color=FF1493" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=FF69B4&color=FF1493" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=FF69B4&color=FF1493" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=FF69B4&color=FF1493" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=FF69B4&color=FF1493" />
-<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white&labelColor=FF69B4&color=FF1493" />
+<table align="center" border="0" cellpadding="10">
+  <tr>
+    <td width="30%" align="center">
+      <img src="https://avatars.githubusercontent.com/halizadz" width="150" style="border-radius: 50%; border: 3px solid #FF1493;"/>
+      <br/>
+      <b>@halizadz</b>
+      <br/>
+      <sub>software engineer</sub>
+    </td>
+    <td width="70%" align="left">
+      <b>👩‍💻 about me</b>
+      <br/>
+      Software engineer passionate about building clean, scalable web applications.
+      Crafting full stack solutions — from elegant UIs to robust backends — with a touch of pink. ✨
+      <br/><br/>
+      <b>🎯 currently</b>
+      <br/>
+      • Building full stack web applications<br/>
+      • Exploring system design & architecture<br/>
+      • Making the web faster & cuter 🌸
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<br/>
+
+---
+
+<!-- TECH STACK SECTION -->
+<div align="center">
+  
+## 💻 `tech.stack`
+
+<br/>
+
+<b>frontend</b>
+<br/>
+<img src="https://img.shields.io/badge/HTML5-0D0D0D?style=flat-square&logo=html5&logoColor=FF1493&labelColor=1A1A1A"/>
+<img src="https://img.shields.io/badge/CSS3-0D0D0D?style=flat-square&logo=css3&logoColor=FF1493&labelColor=1A1A1A"/>
+<img src="https://img.shields.io/badge/JavaScript-0D0D0D?style=flat-square&logo=javascript&logoColor=FF1493&labelColor=1A1A1A"/>
+<img src="https://img.shields.io/badge/React-0D0D0D?style=flat-square&logo=react&logoColor=FF1493&labelColor=1A1A1A"/>
 
 <br/><br/>
 
-<!-- ANIMATED TOOLS WITH FLUENT EMOJIS -->
-<code><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="40" height="40" /></code>
-<code><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="40" height="40" /></code>
-<code><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Heart%20with%20Ribbon.png" alt="Heart" width="40" height="40" /></code>
-<code><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Coffee.png" alt="Coffee" width="40" height="40" /></code>
-<code><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Star" width="40" height="40" /></code>
-
-</div>
-
-<!-- STATISTICS SECTION WITH CUTE CARDS -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<div align="center">
-  
-### 📊 `github.pink.stats` 📊
-
+<b>backend</b>
 <br/>
-
-<!-- PINK THEMED STATS CARDS WITH BORDERS -->
-<img src="https://github-readme-stats.vercel.app/api?username=halizadz&show_icons=true&theme=radical&bg_color=0D0D0D&title_color=FF69B4&text_color=FFB6C1&icon_color=FF1493&border_color=FF1493&border_radius=15&hide_border=false" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=halizadz&layout=compact&theme=radical&bg_color=0D0D0D&title_color=FF69B4&text_color=FFB6C1&border_color=FF1493&border_radius=15&hide_border=false" height="170" />
+<img src="https://img.shields.io/badge/PHP-0D0D0D?style=flat-square&logo=php&logoColor=FF1493&labelColor=1A1A1A"/>
+<img src="https://img.shields.io/badge/Go-0D0D0D?style=flat-square&logo=go&logoColor=FF1493&labelColor=1A1A1A"/>
 
 <br/><br/>
 
-<!-- STREAK STATS WITH CUSTOM PINK THEME -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=halizadz&theme=radical&background=0D0D0D&border=FF1493&stroke=FF69B4&ring=FF1493&fire=FF69B4&currStreakNum=FFB6C1&sideNums=FF69B4&currStreakLabel=FF1493&sideLabels=FF1493&dates=FFB6C1&border_radius=15)](https://git.io/streak-stats)
-
+<b>tools & environment</b>
 <br/>
-
-<!-- CONTRIBUTION GRAPH (SUPER POPULAR) -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=halizadz&custom_title=halizadz's%20pink%20contribution%20graph&bg_color=0D0D0D&color=FF69B4&line=FF1493&point=FFB6C1&area_color=FF1493&title_color=FF69B4&area=true&hide_border=false&border_color=FF1493" width="90%"/>
+<img src="https://img.shields.io/badge/VSCode-0D0D0D?style=flat-square&logo=visualstudiocode&logoColor=FF1493"/>
+<img src="https://img.shields.io/badge/Git-0D0D0D?style=flat-square&logo=git&logoColor=FF1493"/>
+<img src="https://img.shields.io/badge/Docker-0D0D0D?style=flat-square&logo=docker&logoColor=FF1493"/>
+<img src="https://img.shields.io/badge/Figma-0D0D0D?style=flat-square&logo=figma&logoColor=FF1493"/>
 
 </div>
 
-<!-- CUTE DAILY VIBE SECTION -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<br/>
 
+---
+
+<!-- STATISTICS SECTION -->
 <div align="center">
   
-### 💖 `daily.vibe` 💖
+## 📊 `github.stats`
 
 <br/>
 
-<!-- SPOTIFY NOW PLAYING (IF YOU WANT TO ADD LATER) -->
-[![Spotify](https://novatorem-seven-inky.vercel.app/api/spotify?background_color=0d0d0d&border_color=ff1493)](https://open.spotify.com/user/placeholder)
-
-<br/>
-
-<!-- CUTE STATUS CARD WITH ANIMATED EMOJIS -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sparkling%20Heart.png" width="25" />
-  <b>currently:</b>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sparkling%20Heart.png" width="25" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=halizadz&show_icons=true&theme=radical&bg_color=0D0D0D&title_color=FF1493&text_color=FFB6C1&icon_color=FF1493&border_color=2A0A1A&hide_border=true&count_private=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=halizadz&layout=compact&theme=radical&bg_color=0D0D0D&title_color=FF1493&text_color=FFB6C1&border_color=2A0A1A&hide_border=true"/>
 </div>
 
-```js
-// 💖 halizadz's current status
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=halizadz&theme=radical&background=0D0D0D&border=2A0A1A&stroke=FF1493&ring=FF1493&fire=FF69B4&currStreakNum=FFB6C1&sideNums=FFB6C1&currStreakLabel=FF1493&sideLabels=FF1493&dates=FF69B4&hide_border=true" width="70%"/>
+
+</div>
+
+<br/>
+
+---
+
+<!-- CURRENT STATUS SECTION -->
+<div align="center">
+  
+## 🌸 `current.status`
+
+<br/>
+
+<table align="center" border="0">
+  <tr>
+    <td align="center" width="200">
+      <b>🎧 now playing</b>
+      <br/>
+      <sub>lofi beats to code to</sub>
+    </td>
+    <td align="center" width="200">
+      <b>☕ current fuel</b>
+      <br/>
+      <sub>matcha latte / coffee</sub>
+    </td>
+    <td align="center" width="200">
+      <b>💻 working on</b>
+      <br/>
+      <sub>full stack web apps</sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<details>
+<summary><b>✨ click for daily vibe</b></summary>
+<br/>
+  
+```json
 {
-  "coding": ["building something cute ✨", "drinking matcha 🍵"],
-  "learning": ["animations", "ui/ux design"],
-  "mood": "soft pink vibes only 💗",
-  "playlist": "lofi girl but make it pink",
-  "fun_fact": "i put sparkles on everything ✨"
+  "role"     : "software engineer",
+  "focus"    : ["web development", "clean architecture"],
+  "stack"    : ["React", "Go", "PHP", "JavaScript"],
+  "learning" : ["system design", "backend optimization"],
+  "fun_fact" : "my code is pink-themed in my head"
 }
+```
 
-<!-- CUTE ANIMAL STICKERS (TRENDING) --><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Butterfly.png" width="35" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat.png" width="35" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Panda.png" width="35" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Unicorn.png" width="35" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Butterfly.png" width="35" /></div><!-- FOOTER WITH SOCIALS --><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"><div align="center">
-🌸 let's.connect 🌸
+</details>
 
-<!-- SOCIAL BADGES WITH PINK THEME -->
-<a href="https://instagram.com/halizadz" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23FF1493.svg?&style=for-the-badge&logo=instagram&logoColor=white&labelColor=FF69B4&color=FF1493" /></a>
-<a href="https://linkedin.com/in/halizadz" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%23FF1493.svg?&style=for-the-badge&logo=linkedin&logoColor=white&labelColor=FF69B4&color=FF1493" /></a>
-<a href="mailto:halizadz@email.com"><img src="https://img.shields.io/badge/Email-%23FF1493.svg?&style=for-the-badge&logo=gmail&logoColor=white&labelColor=FF69B4&color=FF1493" /></a>
-<a href="https://twitter.com/halizadz"><img src="https://img.shields.io/badge/Twitter-%23FF1493.svg?&style=for-the-badge&logo=x&logoColor=white&labelColor=FF69B4&color=FF1493" /></a>
+</div>
 
+---
 
+<!-- CONNECT SECTION -->
+<div align="center">
 
+## 💗 `let's.connect`
 
-<!-- ANIMATED FOOTER WAVE --><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,6,8&height=120&section=footer&text=thanks%20for%20visiting!%20%F0%9F%92%96&fontSize=24&fontColor=FF1493&animation=twinkling" width="100%"/><!-- PROFILE VIEWS COUNTER WITH PINK THEME --><img src="https://komarev.com/ghpvc/?username=halizadz&color=FF1493&style=for-the-badge&label=visitor+count&base=1234" /><!-- CUTE ENDING --><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Heart%20with%20Ribbon.png" width="25" /> <b> made with 💗 by halizadz </b> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Heart%20with%20Ribbon.png" width="25" /></div> ```
+<br/>
+
+<a href="https://instagram.com/halizadz" target="_blank">
+  <img src="https://img.shields.io/badge/instagram-0D0D0D?style=for-the-badge&logo=instagram&logoColor=FF1493&labelColor=1A1A1A"/>
+</a>
+<a href="https://linkedin.com/in/halizadz" target="_blank">
+  <img src="https://img.shields.io/badge/linkedin-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=FF1493&labelColor=1A1A1A"/>
+</a>
+<a href="mailto:halizadz@email.com">
+  <img src="https://img.shields.io/badge/email-0D0D0D?style=for-the-badge&logo=gmail&logoColor=FF1493&labelColor=1A1A1A"/>
+</a>
+<a href="https://twitter.com/halizadz">
+  <img src="https://img.shields.io/badge/twitter-0D0D0D?style=for-the-badge&logo=x&logoColor=FF1493&labelColor=1A1A1A"/>
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D0D0D,50:FF1493,100:0D0D0D&height=100&section=footer&text=%20&fontSize=0" width="100%"/>
+
+<img src="https://komarev.com/ghpvc/?username=halizadz&color=FF1493&style=flat-square&label=visitors"/>
+<br/>
+<sub>💗 crafted with love by halizadz</sub>
+
+</div>
